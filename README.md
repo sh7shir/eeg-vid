@@ -20,13 +20,13 @@ correlation with the given test EEG → 102 ranked video IDs
 
 Your earlier four-subject validation results were:
 
-| Subject | Top-1 | Top-5 | Median rank |
+| Subject | Top-1 | Top-5 |
 |---|---:|---:|---:|
-| 01 | 2.9% | 24.5% | 14.0 |
-| 02 | 4.9% | 23.5% | 16.0 |
-| 03 | 7.8% | 16.7% | 23.5 |
-| 04 | 5.9% | 15.7% | 27.5 |
-| Mean | 5.39% | 20.10% | — |
+| 01 | 3.92% | 10.8% |
+| 02 | 4.9% | 22.5% |
+| 03 | 5.88% | 13.73% |
+| 04 | 2.94% | 8,82% |
+| Mean | 5.39% | 20.10% |
 
 These results exceed random chance (0.98% top-1 and 4.90% top-5).
 The organizers' introductory example reported roughly 4% top-1 and 11.7% top-5, but a fair head-to-head comparison requires running both implementations on identical test rows and subjects. Small top-1 differences are noisy with just 102 trials per subject.
