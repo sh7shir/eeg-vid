@@ -55,7 +55,7 @@ We keep the old `mean` and `frames` representations and the old uncentered scori
 Keep the original folder structure:
 
 ```text
-D:\eegx\eeg\
+D:\eeg\
     01_preprocess_and_train_model.ipynb
     02_predict_movies.ipynb
     frame_baseline.py
